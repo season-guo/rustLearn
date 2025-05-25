@@ -1,0 +1,1 @@
+/home/season/rustLearn/exercise/week3/target/debug/week3: /home/season/rustLearn/exercise/week3/src/main.rs /home/season/rustLearn/exercise/week3/src/open_file.rs /home/season/rustLearn/exercise/week3/src/process.rs /home/season/rustLearn/exercise/week3/src/ps_utils.rs
